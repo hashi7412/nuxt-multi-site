@@ -1,21 +1,23 @@
 # nuxt_practice
 
-## Build Setup
+## Installation
 
-```bash
-# install dependencies
-$ yarn install
+### Using create-nuxt-app
 
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
 ```
+yarn create nuxt-app <project-name>
+```
+
+```
+cd <project-name>
+yarn dev
+```
+
+### Manual Installation
+
+
+
+
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
