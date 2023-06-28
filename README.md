@@ -41,6 +41,15 @@ Install nuxt
 yarn add nuxt
 ```
 
+Create the first page
+```
+mkdir pages
+```
+```
+touch pages/index.vue
+```
+
+
 
 
 
