@@ -14,6 +14,32 @@ yarn dev
 ```
 
 ### Manual Installation
+```
+mkdir <project-name>
+cd <project-name>
+```
+
+```
+touch package.json
+```
+
+```
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  }
+}
+```
+
+Install nuxt
+
+```
+yarn add nuxt
+```
 
 
 
